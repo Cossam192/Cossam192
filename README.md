@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cossam192
 - 👀 I’m interested in Informatics system admnistraion
-- 🌱 I’m currently learning lunix server,postgres msurvey solutions
+- 🌱 I’m currently learning lunix server,postgres,how to use koboToolbox
 - 💞️ I’m looking for collaboration owit system admnistrators
 - 📫 How to reach me this lessons
 - 😄 Pronouns: ...
